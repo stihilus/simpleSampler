@@ -1,6 +1,7 @@
 # simpleSampler
 
 A simple, interactive web-based sample sequencer with a 16-step grid and 5 sample slices.
+Link: https://stihilus.github.io/simpleSampler/
 
 <img width="587" alt="image" src="https://github.com/user-attachments/assets/251ca3a8-01ec-4ce0-92d9-92d330925336">
 
